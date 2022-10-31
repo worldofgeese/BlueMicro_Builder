@@ -1,5 +1,5 @@
 # BlueMicro_Builder
-Initializes and builds your own BlueMicro_BLE firmware with a *Dvorak* keyboard layout for the Blue Wizard keyboard on *Linux*. 
+Initializes and builds your own BlueMicro_BLE firmware with a *Dvorak* keyboard layout for the Blue Wizard module on *Linux*. The Blue Wizard is a module built around the Arduino Feather 52832 intended to upgrade Kinesis Advantage and Kinesis Advantage2 keyboards to be wireless Bluetooth-capable. 
 
 ## First Time: Initializating the firmware
 
