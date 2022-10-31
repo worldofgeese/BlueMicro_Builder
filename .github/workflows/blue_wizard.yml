@@ -15,13 +15,13 @@ jobs:
       matrix:
         # Replace the following with the keyboard you want to setup.  
         # Only 1 keyboard is supported.  For more keyboards, copy and rename this file.
-        keyboard: ['contra']
+        keyboard: ['blue_wizard']
         # Keymap of the keyboard to setup.  Multiple keymaps can be setup following this example: ['default','jpconstantineau']
-        keymap: ['default']
+        keymap: ['dvorak']
         # keyboard configuration. Multiple configs can be setup following this example: ['left','right']
         keyboard_config: ['single']
         # hardware configuration. must have both components of the path in the BlueMicro_BLE keyboard examples path
-        hardware_config: ['bluemicrov2_1']
+        hardware_config: ['feather52832']
         # Available options
         # feather52832 - use this for most nRF52832 based boards (needs Arduino_nRF52_Bootloader)
         # bluemicro_nrf52840
