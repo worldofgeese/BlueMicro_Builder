@@ -10,7 +10,7 @@ The Dvorak layout is very close to stock with only the following keys changed:
 [rwin]>[rctrl]
 ```
 
-If you wish to have stock thumb clusters, copy the keymap under `\\ left thumb` and `\\ right thumb` from [this file](https://github.com/jpconstantineau/BlueMicro_BLE/blob/master/firmware/keyboards/blue_wizard/keymaps/default/keymap.cpp) to the `keymap.cpp` file under ./firmware/keyboards/blue_wizard/keymaps/dvorak/ in https://github.com/worldofgeese/BlueMicro_BLE.
+If you wish to have stock thumb clusters, copy the keymap under `\\ left thumb` and `\\ right thumb` from [this file](https://github.com/jpconstantineau/BlueMicro_BLE/blob/master/firmware/keyboards/blue_wizard/keymaps/default/keymap.cpp) to the `keymap.cpp` file under `./firmware/keyboards/blue_wizard/keymaps/dvorak/` in [worldofgeese/BlueMicro_BLE](https://github.com/worldofgeese/BlueMicro_BLE).
 
 ## First Time: Initializating the firmware
 
