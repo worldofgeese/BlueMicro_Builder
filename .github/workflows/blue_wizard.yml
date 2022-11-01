@@ -49,7 +49,7 @@ jobs:
       - name: clone BlueMicro_BLE repository
         if: ${{ steps.job_conditions.outputs.firmware-here == 'false' }}
         run: |
-          git clone https://github.com/jpconstantineau/BlueMicro_BLE.git
+          git clone https://github.com/worldofgeese/BlueMicro_BLE.git
       - name: setup job variables
         id: job_variables
         run: |
